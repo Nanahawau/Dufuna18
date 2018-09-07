@@ -1,0 +1,8 @@
+Step by step process of creating and moving to a new branch in Vscode;
+
+1. Open vscode, and open a new folder.
+2. Using the command pallette, initialize git in the folder, type git and a number of options will show. Click on intialize
+	repo.
+3. Click on create branch and then git checkout to move to new or existing branch.
+
+All these options exist in the command pallette.

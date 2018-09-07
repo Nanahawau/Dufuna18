@@ -1,0 +1,6 @@
+Quiz 2;
+
+Using Version control e.g. Git, Aminat can handle working on the text to speech feature and not ruin her demo by committing her demo
+her demo to her master branch and pushing it to a remote repository after which she can create and move to another branch
+where she can work on the text to speech feature. This new changes will remain in the branch unless they are merged with
+the master branch which she can do when she's done with the new feature.

@@ -1,0 +1,12 @@
+Git terminologies
+
+1. Merge : Taking the changes from one branch and adding them into another (traditionally master) branch. These commits are usually first requested via pull request 
+		before being merged by a project maintainer.
+
+2. Pull request : If someone has changed code on a separate branch of a project and wants it to be reviewed to add to the master branch, that someone can put in a 
+			pull request. Pull requests ask the repo maintainers to review the commits made, and then, if acceptable, merge the changes upstream. A pull happens when adding the changes to the master branch.
+
+3. Master : The primary branch of all repositories. All committed and accepted changes should be on the master branch. You can work directly from the master branch,
+		 or create other branches.
+
+4. Push : Updates a remote branch with the commits made to the current branch. You are literally “pushing” your changes onto the remote.
